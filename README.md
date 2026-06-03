@@ -28,7 +28,7 @@ To build strong programming skills, create impactful projects, and secure a Soft
 - LinkedIn: https://www.linkedin.com/in/khushichauhan-cseaiml
 - GitHub: https://github.com/khushichauhan-codes
 
-⭐ Always learning and growing every day.## Hi there 👋
+⭐ Always learning and growing every day.
 
 <!--
 **khushichauhan-codes/khushichauhan-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
